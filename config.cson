@@ -1,0 +1,28 @@
+"*":
+  core:
+    excludeVcsIgnoredPaths: false
+    themes: [
+      "seti-ui"
+      "monokai-seti"
+    ]
+  editor:
+    fontSize: 13
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    tabType: "hard"
+  "exception-reporting":
+    userId: "49bbf74a-9214-80a0-2cf0-1283d2a732d9"
+  linter:
+    errorPanelHeight: 43
+  "linter-eslint":
+    eslintRulesDir: "/Users/tony.meyer/Work/web-disney/web-platform/node_modules/eslint-config-cumul8"
+  "linter-stylelint":
+    showIgnored: true
+  "markdown-pdf": {}
+  "tool-bar":
+    position: "Left"
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
